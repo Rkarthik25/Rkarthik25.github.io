@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a8cd224.css",
-    "main.js": "/static/js/main.92768fb4.js",
+    "main.css": "/static/css/main.e3bbfcd3.css",
+    "main.js": "/static/js/main.c5da304b.js",
     "static/js/787.b9ec5bb0.chunk.js": "/static/js/787.b9ec5bb0.chunk.js",
     "static/media/purplle1.png": "/static/media/purplle1.e0bd274112e66f3c51a3.png",
     "static/media/bewakoof1.png": "/static/media/bewakoof1.a8ffbe63c2da1a478413.png",
@@ -23,22 +23,26 @@
     "static/media/bestbuy2.png": "/static/media/bestbuy2.f6aeeaf2f9082779bb11.png",
     "static/media/Karthikeyan_Rajan_Resume.pdf": "/static/media/Karthikeyan_Rajan_Resume.c3eacee54709361c2219.pdf",
     "static/media/mongodb.svg": "/static/media/mongodb.1d06b1a7f964329cc6359233067c4f2e.svg",
+    "static/media/postman.svg": "/static/media/postman.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
     "static/media/express.svg": "/static/media/express.778883a8c616cdae1ae2eded6c460ee0.svg",
     "static/media/react.svg": "/static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
-    "static/media/mysql.svg": "/static/media/mysql.64f88a817c7f8c20c853ea3acbca9310.svg",
+    "static/media/Netlify.svg": "/static/media/Netlify.925d774e8e192ef0f3a6705a9aef4070.svg",
+    "static/media/render.svg": "/static/media/render.0c8153fe19b36106b48011ce1f0a50fd.svg",
+    "static/media/vscode.svg": "/static/media/vscode.5cc4bd71441239c888ded948e8c88803.svg",
     "static/media/github-icon.svg": "/static/media/github-icon.41bba81c8755d1687deabf6a58dd154b.svg",
     "static/media/nodejs-icon.svg": "/static/media/nodejs-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
     "static/media/redux.svg": "/static/media/redux.546485b8d93d3edf5b362709cc69afc5.svg",
     "static/media/html_5.svg": "/static/media/html_5.04ad4ab83f740c867197aa984fe8736c.svg",
     "static/media/css_3.svg": "/static/media/css_3.926611385610b2f0ba730d6fd84e47ad.svg",
     "static/media/javascript.svg": "/static/media/javascript.1d3d28798f08ea1ed7cd47f812044c4f.svg",
+    "static/media/Vercel.svg": "/static/media/Vercel.d0985000ee11a36bf1f8c9a1dfa2c59c.svg",
     "index.html": "/index.html",
-    "main.4a8cd224.css.map": "/static/css/main.4a8cd224.css.map",
-    "main.92768fb4.js.map": "/static/js/main.92768fb4.js.map",
+    "main.e3bbfcd3.css.map": "/static/css/main.e3bbfcd3.css.map",
+    "main.c5da304b.js.map": "/static/js/main.c5da304b.js.map",
     "787.b9ec5bb0.chunk.js.map": "/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a8cd224.css",
-    "static/js/main.92768fb4.js"
+    "static/css/main.e3bbfcd3.css",
+    "static/js/main.c5da304b.js"
   ]
 }
