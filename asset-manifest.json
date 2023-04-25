@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3bbfcd3.css",
-    "main.js": "/static/js/main.c5da304b.js",
+    "main.js": "/static/js/main.28fab77b.js",
     "static/js/787.b9ec5bb0.chunk.js": "/static/js/787.b9ec5bb0.chunk.js",
     "static/media/purplle1.png": "/static/media/purplle1.e0bd274112e66f3c51a3.png",
     "static/media/bewakoof1.png": "/static/media/bewakoof1.a8ffbe63c2da1a478413.png",
@@ -21,7 +21,7 @@
     "static/media/karthikeyan.jpg": "/static/media/karthikeyan.c835fb15229c26b0bc33.jpg",
     "static/media/purplle4.png": "/static/media/purplle4.87b86a4a55024be57b58.png",
     "static/media/bestbuy2.png": "/static/media/bestbuy2.f6aeeaf2f9082779bb11.png",
-    "static/media/Karthikeyan_Rajan_Resume.pdf": "/static/media/Karthikeyan_Rajan_Resume.c3eacee54709361c2219.pdf",
+    "static/media/Karthikeyan_Rajan_Resume.pdf": "/static/media/Karthikeyan_Rajan_Resume.52932da8a8f8dd27a793.pdf",
     "static/media/mongodb.svg": "/static/media/mongodb.1d06b1a7f964329cc6359233067c4f2e.svg",
     "static/media/postman.svg": "/static/media/postman.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
     "static/media/express.svg": "/static/media/express.778883a8c616cdae1ae2eded6c460ee0.svg",
@@ -38,11 +38,11 @@
     "static/media/Vercel.svg": "/static/media/Vercel.d0985000ee11a36bf1f8c9a1dfa2c59c.svg",
     "index.html": "/index.html",
     "main.e3bbfcd3.css.map": "/static/css/main.e3bbfcd3.css.map",
-    "main.c5da304b.js.map": "/static/js/main.c5da304b.js.map",
+    "main.28fab77b.js.map": "/static/js/main.28fab77b.js.map",
     "787.b9ec5bb0.chunk.js.map": "/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3bbfcd3.css",
-    "static/js/main.c5da304b.js"
+    "static/js/main.28fab77b.js"
   ]
 }
