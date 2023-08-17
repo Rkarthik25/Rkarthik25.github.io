@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3bbfcd3.css",
-    "main.js": "/static/js/main.cae3c9b6.js",
+    "main.js": "/static/js/main.1648101b.js",
     "static/js/787.b9ec5bb0.chunk.js": "/static/js/787.b9ec5bb0.chunk.js",
     "static/media/purplle1.png": "/static/media/purplle1.e0bd274112e66f3c51a3.png",
     "static/media/bewakoof1.png": "/static/media/bewakoof1.a8ffbe63c2da1a478413.png",
@@ -12,16 +12,16 @@
     "static/media/bestbuy1.png": "/static/media/bestbuy1.c4dd2a0d6984ee9ea14e.png",
     "static/media/purplle2.png": "/static/media/purplle2.6cad3f34cd21d10b3245.png",
     "static/media/bestbuy3.png": "/static/media/bestbuy3.5c26692c076b71ac1cbf.png",
+    "static/media/karthikeyan.jpg": "/static/media/karthikeyan.31d1e4415336c17c1dad.jpg",
     "static/media/apple3.png": "/static/media/apple3.2e9bd7c870201ebb51bc.png",
     "static/media/apple2.png": "/static/media/apple2.e0f56ae01b0bb9e49b3f.png",
     "static/media/bestbuy4.png": "/static/media/bestbuy4.c7b16942882503d1c149.png",
     "static/media/bewakoof2.png": "/static/media/bewakoof2.01d7693611684b1e9ffa.png",
     "static/media/apple4.png": "/static/media/apple4.bead8658efadaf0ea18e.png",
     "static/media/bestbuy5.png": "/static/media/bestbuy5.36aab4de21826debfc48.png",
-    "static/media/karthikeyan.jpg": "/static/media/karthikeyan.c835fb15229c26b0bc33.jpg",
+    "static/media/Karthikeyan_Rajan_Resume.pdf": "/static/media/Karthikeyan_Rajan_Resume.3861a50d19969bb059cc.pdf",
     "static/media/purplle4.png": "/static/media/purplle4.87b86a4a55024be57b58.png",
     "static/media/bestbuy2.png": "/static/media/bestbuy2.f6aeeaf2f9082779bb11.png",
-    "static/media/Karthikeyan_Rajan_Resume.pdf": "/static/media/Karthikeyan_Rajan_Resume.19ad7515f2324cacf934.pdf",
     "static/media/mongodb.svg": "/static/media/mongodb.1d06b1a7f964329cc6359233067c4f2e.svg",
     "static/media/postman.svg": "/static/media/postman.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
     "static/media/express.svg": "/static/media/express.778883a8c616cdae1ae2eded6c460ee0.svg",
@@ -38,11 +38,11 @@
     "static/media/Vercel.svg": "/static/media/Vercel.d0985000ee11a36bf1f8c9a1dfa2c59c.svg",
     "index.html": "/index.html",
     "main.e3bbfcd3.css.map": "/static/css/main.e3bbfcd3.css.map",
-    "main.cae3c9b6.js.map": "/static/js/main.cae3c9b6.js.map",
+    "main.1648101b.js.map": "/static/js/main.1648101b.js.map",
     "787.b9ec5bb0.chunk.js.map": "/static/js/787.b9ec5bb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3bbfcd3.css",
-    "static/js/main.cae3c9b6.js"
+    "static/js/main.1648101b.js"
   ]
 }
